@@ -1,0 +1,7 @@
+__pycache__/
+/venv/ 
+*.txt 
+!requirements.txt
+*.pyc
+dist/ 
+taskaty.egg-info/
