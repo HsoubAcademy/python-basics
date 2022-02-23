@@ -23,14 +23,14 @@
 <h2>طريقة الاستخدام</h2>
 <p>يمكنك تشغيل التطبيق من سطر الأوامر باستخدام الأمر <code>taskaty</code></p>
 <h3>إضافة مهمة</h3>
-<pre>taskaty add "Add search bar compoent to the UI"</pre>
+<pre dir="ltr">taskaty add "Add search bar compoent to the UI"</pre>
 <h3>عرض المهام</h3>
-<pre>taskaty list</pre>
+<pre dir="ltr">taskaty list</pre>
 <h3>إنهاء مهمة</h3>
-<pre>taskaty check -t <task_number></pre>
+<pre dir="ltr">taskaty check -t <task_number></pre>
 <h3>حذف مهمة</h3>
-<pre>taskaty remove -t <task_number></pre>
+<pre dir="ltr">taskaty remove -t <task_number></pre>
 <h3>حذف كل المهام</h3>
-<pre>taskaty reset</pre>
+<pre dir="ltr">taskaty reset</pre>
 </div>
 
