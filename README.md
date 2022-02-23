@@ -3,7 +3,7 @@
 <p>الشيفرة المصدرية الخاصة بمسار أساسيات بايثون ضمن دورة "تطوير التطبيقات باستخدام لغة Python" المقدمة من أكاديمية حسوب</p>
 
 <div>
-<a href="https://academy.hsoub.com/learn/Python-application-development/">دورة تطوير التطبيقات باستخدام لغة Python</a>
+<a href="https://academy.hsoub.com/learn/python-application-development/">دورة تطوير التطبيقات باستخدام لغة Python</a>
 </div>
 <h2> تطبيق Taskaty </h2>
 <p>برامج بسيط لإدارة المهام</p>
