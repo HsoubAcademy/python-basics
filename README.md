@@ -9,8 +9,8 @@
 <p>برامج بسيط لإدارة المهام</p>
 <h2> طريقة التثبيت </h2>
 <ul>
-  <li>نسخ المستودع <code>git clone https://github.com/HsoubAcademy/python_basics</code></li>
-  <li>الانتقال إلى المجلد <code>cd python_basics</code></li>
+  <li>نسخ المستودع <code>git clone https://github.com/HsoubAcademy/python-basics</code></li>
+  <li>الانتقال إلى المجلد <code>cd python-basics</code></li>
   <li>إنشاء بيئة وهمية <code>python -m venv venv</code> أو <code>python3 -m venv venv</code></li>
   <li>تفعيل البيئة الوهمية
     <ul>
